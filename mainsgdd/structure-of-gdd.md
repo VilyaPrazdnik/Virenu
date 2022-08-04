@@ -1,21 +1,27 @@
 # Structure of GDD
 
-Game overview:\
+**Game overview:**\
 The General Idea of the Game
 
-Inspiration/Game concepts:\
+**Inspiration/Game concepts:**\
 Research concept arts and Ideas
-
-Target Audience:\
-Who is game for?
-
-Core mechanics:\
-
 
 **Theme and player experience:**\
 The type of game and what the player will do\
 "Theme - strategy\
-Player experience: managing the settlement,&#x20;
+Player experience: managing the settlement, struggle for resources"
+
+**Core mechanics:**
+
+**Core loop:**
+
+**Game style and arts:**\
+****Aesthetics
+
+**Target Audience: ()Marketing** \
+Who is game for?
+
+****
 
 
 
