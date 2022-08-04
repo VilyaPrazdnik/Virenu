@@ -4,7 +4,7 @@
 
 ## The Company
 
-* [Vision and Values](the-company/vision-and-values.md)
+* [Vision and ValuesXX](the-company/vision-and-valuesxx.md)
 * [Meet the Team!](the-company/meet-the-team.md)
 
 ## The Formal Stuff
