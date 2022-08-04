@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Welcome!](README.md)
-
 ## The Company
 
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Meet the Team!](README.md)
+
+## MainSGDD
+
+* [Structure of GDD](mainsgdd/structure-of-gdd.md)
