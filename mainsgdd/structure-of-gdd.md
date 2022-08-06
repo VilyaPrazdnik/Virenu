@@ -16,6 +16,30 @@ Who is game for?
 игроки желающие получить фан от игры, и готовые за это заплатиь\
 игроки желающие заработать
 
+
+
+
+
+The General Idea of the Game
+
+Theme and player experience
+
+### [**Gameplay:**](broken-reference)****
+
+[Core Mechanics](broken-reference)
+
+[Core Loop](broken-reference)
+
+[Game Enitites](broken-reference)
+
+### [**Game style and arts:**](broken-reference)****
+
+Aesthetics
+
+### ****[**Target Audience:**](broken-reference) **()Marketing**&#x20;
+
+Who is game for?
+
 ****
 
 
