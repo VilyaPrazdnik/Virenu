@@ -1,18 +1,18 @@
 # Structure of GDD
 
-### [**Gameplay:**](mainsgdd/broken-reference/)
+### **Gameplay:**
 
-[Core Mechanics](mainsgdd/broken-reference/)
+Core Mechanics
 
-[Core Loop](mainsgdd/broken-reference/)
+Core Loop
 
-[Game Enitites](mainsgdd/broken-reference/)
+Game Enitites
 
-### [**Game style and arts:**](mainsgdd/broken-reference/)
+### **Game style and arts:**
 
 Aesthetics
 
-### [**Target Audience:**](mainsgdd/broken-reference/) **()Marketing**
+### **Target Audience:** **()Marketing**
 
 Who is game for?
 
