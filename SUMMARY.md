@@ -1,12 +1,8 @@
 # Table of contents
 
-## The Company
-
-* [Meet the Team!](README.md)
-
 ## MainSGDD
 
-* [Structure of GDD](mainsgdd/structure-of-gdd.md)
+* [Structure of GDD](README.md)
 * [Game Overview](mainsgdd/game-overview.md)
 * [Gameplay](mainsgdd/gameplay/README.md)
   * [Core Mechanics](mainsgdd/gameplay/core-mechanics.md)

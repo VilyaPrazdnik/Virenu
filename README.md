@@ -1,47 +1,38 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
----
+# Structure of GDD
 
-# Meet the Team!
+**Game overview:**\
+Mithraeum is a **pure on-chain** grand strategy game strongly focused on players’ social interactions. To be successful in the game, the players use their economic and military resources _(physical layer)_, alongside social and analytical skills converting them into political influence and thus spread their will upon others _(social layer)_. In other words, it is a strategy game that, thanks to the blockchain as a game theoretic playground, turns into a real time **political simulator**.
 
-{% hint style="info" %}
-**Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
-{% endhint %}
+**Theme and player experience:**\
+The type of game and what the player will do\\
 
-## Esme DeWalt
+**Target Audience: ()Marketing**\
+Who is game for?
 
-👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
+\
+\
+Аудитория по типу заинтересованности:\
+игроки желающие получить фан от игры, и готовые за это заплатиь\
+игроки желающие заработать
 
-![](https://images.unsplash.com/photo-1571442463800-1337d7af9d2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2973\&q=80)
+The General Idea of the Game
 
-### Bio
+Theme and player experience
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+### [**Gameplay:**](mainsgdd/broken-reference/)
 
-## Rima Paterson
+[Core Mechanics](mainsgdd/broken-reference/)
 
-👋 CTO — 💌 rima@company.com — 🇳🇱 Amsterdam (GMT+1)
+[Core Loop](mainsgdd/broken-reference/)
 
-![](https://images.unsplash.com/photo-1502764613149-7f1d229e230f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2972\&q=80)
+[Game Enitites](mainsgdd/broken-reference/)
 
-### Bio
+### [**Game style and arts:**](mainsgdd/broken-reference/)
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+Aesthetics
 
-## Stefan Barr
+### [**Target Audience:**](mainsgdd/broken-reference/) **()Marketing**
 
-👋 Head of Product — 💌 stefan@company.com — 🇫🇷 Marseille (GMT+1)
+Who is game for?
 
-![](https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2970\&q=80)
-
-### Bio
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+***
