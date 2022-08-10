@@ -1,6 +1,6 @@
 # Structure of GDD
 
-### ****[**Gameplay:**](mainsgdd/gameplay/)****
+### **Gameplay:**
 
 Core Mechanics
 
@@ -8,11 +8,11 @@ Core Loop
 
 Game Enitites
 
-### ****[**Game style and arts:**](mainsgdd/gamestyle-and-arts.md)****
+### **Game style and arts:**
 
 Aesthetics
 
-### ****[**Target Audience:**](mainsgdd/target-audience.md) **()Marketing**
+### **Target Audience:** **()Marketing**
 
 Who is game for?
 
