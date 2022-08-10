@@ -6,10 +6,10 @@
 
 #### Settlement
 
-settlers
+Settlers
 
-resources
+Resources
 
-army
+Army
 
 #### Cultists
