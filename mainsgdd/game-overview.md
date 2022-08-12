@@ -6,5 +6,5 @@ Mithraeum is a blockchain game in the grand strategy genre, with the ability to 
 
 ### **Theme and player experience**
 
-Theme - strategy\
-Player experience: managing the settlement, struggle for resources
+Genre - onchain grand strategy\
+Player experience: managing the settlement, struggle for resources, social communications
