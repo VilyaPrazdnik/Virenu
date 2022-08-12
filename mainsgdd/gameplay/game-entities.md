@@ -1,7 +1,17 @@
 # Game Entities
 
-Military&#x20;
+### Banner
 
-Map&#x20;
+### Map
 
-Settlement
+### Zone
+
+### Settlement
+
+Settlers
+
+Resources
+
+Army
+
+### Cultists
