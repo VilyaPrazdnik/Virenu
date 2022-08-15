@@ -1,20 +1,42 @@
 # Structure of GDD
 
-### ****[**Gameplay:**](mainsgdd/gameplay/)****
+### 1. Game Overview
 
-Core Mechanics
+1.1 The General Idea of the Game
 
-Core Loop
+1.2 Theme and player experience
 
-Game Enitites
+### 2. [**Gameplay:**](mainsgdd/gameplay/)****
 
-### ****[**Game style and arts:**](mainsgdd/gamestyle-and-arts.md)****
+2.1 Core Mechanics
 
-Aesthetics
+2.2 Core Loop
 
-### ****[**Target Audience:**](mainsgdd/target-audience.md) **()Marketing**
+2.3 Game Enitites
 
-Who is game for?
+2.4 Walk-through
+
+****
+
+### **3.** [**Game style and arts:**](mainsgdd/gamestyle-and-arts.md)****
+
+3.1 Aesthetics
+
+### **4.** [**Target Audience:**](mainsgdd/target-audience.md) **()Marketing**
+
+4.1 Who is game for?
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
 
 ***
 
@@ -30,9 +52,8 @@ The type of game and what the player will do\\
 Who is game for?
 
 \
+
+
 \
 
 
-The General Idea of the Game
-
-Theme and player experience
