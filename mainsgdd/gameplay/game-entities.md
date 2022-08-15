@@ -23,6 +23,7 @@
 * Townhall
 * Farm
 * Lumbermill
+* Copper Mine
 * Smithy
 * Barraks
 * Fort&#x20;
