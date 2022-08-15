@@ -1,3 +1,0 @@
-# Featured Mechanics
-
-Механика культистов
